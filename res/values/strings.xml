@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string name="app_name">点滴生活</string>
+  <string name="crime_title_hint">留下脚印.</string>
+  <string name="crime_title_label">主题</string> 
+  <string name="crime_details_label">Details</string> 
+  <string name="crime_solved_label">Solved?</string>
+  <string name="date_picker_title">选择日期:</string>
+  <string name="crimes_title">备忘录</string>
+  <string name="new_crime">新建</string>
+  <string name="show_subtitle">显示子标题</string>
+  <string name="hide_subtitle">隐藏子标题</string> 
+  <string name="subtitle">点滴生活.</string>
+  <string name="delete_crime">删除记录</string>
+  <string name="take">Take!</string>
+  <string name="crime_suspect_text">Choose Suspect</string> 
+  <string name="crime_report_text">点击发送</string>
+  <string name="crime_report">%1$s!
+The crime was discovered on %2$s. %3$s, and %4$s
+  </string>
+  <string name="crime_report_solved">The case is solved</string>
+  <string name="crime_report_unsolved">The case is not solved</string>
+  <string name="crime_report_no_suspect">There is no suspect.</string>
+  <string name="crime_report_suspect">The suspect is %s.</string>
+  <string name="crime_report_subject">我生活的足迹</string>
+  <string name="send_report">选择发送</string>
+
+</resources>
